@@ -12,8 +12,6 @@
     <br />
     <a href="https://github.com/kelseru/zen-garden"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/kelseru/zen-garden">View Demo</a>
   </p>
 </p>
 

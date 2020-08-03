@@ -21,7 +21,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Screenshots](#screenshots)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -29,13 +28,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## THE ROAD TO ENLIGHTENMENT
+## About The Project
+
+The Road to Enlightenment
 
 There is a continuing need to show the power of CSS. The Zen Garden aims to excite, inspire, and encourage participation. To begin, you must download the core HTML file and then get to work. The HTML must remain untouched, and the only thing you can change is the CSS. Yes, really. 🙌🏻
 
-* Requirements
-Where possible, you can only use CSS 1 & 2. CSS 3 & 4 should be limited to widely-supported elements only.
-The CSS Zen Garden is about functional, practical CSS and not the latest bleeding-edge tricks viewable by 2% of the browsing public.
+The challenge requires you to only use CSS 1 & 2 where possible. CSS 3 & 4 is limited to widely-supported elements only.
 
 CSS allows complete and total control over the style of a hypertext document. The only way this can be illustrated in a way that gets people excited is by demonstrating what it can truly be, once the reins are placed in the hands of those able to create beauty from structure. Designers and coders alike have contributed to the beauty of the web; we can always push it further.
 
@@ -43,15 +42,15 @@ This was the first major project our cohort was given to complete during our 3 m
 
 Zen Garden is probably one of my favourite projects throughout the course, and it is definitely what made me realise that I am a bit of a 'crayon' 🖍 (heavily inclined toward Front-End design!).
 
-<!-- SCREENSHOTS -->
 ## Screenshots / GIFs
 
 ![ZenG](https://user-images.githubusercontent.com/64029300/89180337-819ce380-d589-11ea-9f29-9878af3a3988.gif)
 
 <!-- CONTACT -->
-## Contact Me! I'd love to hear from you. 💌
+## Contact
+I'd love to hear from you. 💌
 
-Rebecca Birkett - [@bex_birkett](https://twitter.com/your_username) - rebeccabirkett@outlook.com
+Rebecca Birkett - [@bex_birkett](https://twitter.com/bex_birkett) - rebeccabirkett@outlook.com
 
 Project Link: [https://github.com/kelseru/zen-garden](https://github.com/kelseru/zen-garden)
 
